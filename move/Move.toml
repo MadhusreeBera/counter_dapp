@@ -1,9 +1,10 @@
 [package]
-name = "counter"
+name = "my_counter"
 version = "1.0.0"
 authors = []
 
 [addresses]
+counter_addr='a2860e98cec346e494daa79d20c790635b67eb92397f0f27c65a8de5ee09a3b9'
 
 [dev-addresses]
 
